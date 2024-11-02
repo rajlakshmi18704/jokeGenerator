@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+}
+h3{
+font-size: 2vmax;
+color: chocolate;
+}
+button{
+  background-color: blue;
+  height: 2vmax;
+  width: 8vmax;
+  font-size: 0.9vmax;
+}
